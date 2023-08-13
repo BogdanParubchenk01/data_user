@@ -1,9 +1,11 @@
-"users": [
-  {
-    "id": 1,
-    "inFavorite": true,
-    "firstName": "Adam",
-    "lastName": "Peter",
-    "email": "dikiypes@sobaka.com"
-  }
-]
+{
+  "users": [
+    {
+      "id": 1,
+      "inFavorite": true,
+      "firstName": "Adam",
+      "lastName": "Peter",
+      "email": "dikiypes@sobaka.com"
+    }
+  ]
+}
